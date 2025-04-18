@@ -2,13 +2,14 @@
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true,
+    "baseUrl": ".",                // Needed for path aliasing
     "paths": {
-      "@/*": [
-        "./*"
-      ]
+      "@/*": ["./*"]               // Allows imports like "@/firebase"
     }
   },
   "include": [
+    "app/**/*",
+    "components/**/*",
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
