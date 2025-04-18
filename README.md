@@ -43,7 +43,7 @@ This is a simple and responsive Todo application built using **React Native**, *
 
 ```bash
 git clone https://github.com/MrPABITRAPRADHAN/Todo_task_React_native
-cd todo-app
+cd todo
 
 
 In the output, you'll find options to open the app in a
