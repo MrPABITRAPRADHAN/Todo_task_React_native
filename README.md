@@ -1,5 +1,7 @@
 # Welcome to your Expo app 👋
 
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
@@ -40,7 +42,7 @@ This is a simple and responsive Todo application built using **React Native**, *
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com//todo-app.git
+git clone https://github.com/MrPABITRAPRADHAN/Todo_task_React_native
 cd todo-app
 
 
